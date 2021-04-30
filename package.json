@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "front": "yarn workspace front"
+    "front": "yarn workspace front",
+    "back": "yarn workspace back"
   },
   "repository": {
     "type": "git",
